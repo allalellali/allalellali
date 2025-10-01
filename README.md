@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">⚡ Maker & Developer ⚡</h1>
 
-<!--
-**allalellali/allalellali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Linux+Enthusiast;Android+Apps+Creator;Arduino+Maker;Raspberry+Pi+Tinkerer&center=true&size=20&color=00ff00&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ```python
+  class Developer:
+      def __init__(self):
+          self.skills = ["Python", "Linux", "Android", "Arduino", "Raspberry Pi"]
+          self.interests = ["IoT Projects", "Embedded Systems", "Robotics"]
+          self.hobbies = ["Mountain Biking 🚵‍♂️", "Drawing 🎨"]
+          
+      def create_magic(self):
+          while True:
+              yield "Building Awesome Projects!"
+  
+  me = Developer()
