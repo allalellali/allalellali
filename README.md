@@ -21,7 +21,7 @@
 
 <p>
   Passionate developer creating amazing things with code!<br>
-  Turning coffee into code since [year] ☕→💻
+  Turning coffee into code since 2020 ☕→💻
 </p>
 
 <!-- Tech Stack -->
