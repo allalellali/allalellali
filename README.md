@@ -5,16 +5,3 @@
 </p>
 
 <div align="center">
-  
-   python
-  class Developer:
-      def __init__(self):
-          self.skills = ["Python", "Linux", "Android", "Arduino", "Raspberry Pi"]
-          self.interests = ["IoT Projects", "Embedded Systems", "Robotics"]
-          self.hobbies = ["Mountain Biking 🚵‍♂️", "Drawing 🎨"]
-          
-  def create_magic(self):
-          while True:
-              yield "Building Awesome Projects!"
-  
-  me = Developer()
