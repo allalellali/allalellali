@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Profile Picture with Animation -->
-<img src="https://avatars.githubusercontent.com/u/[your-user-id]?v=4" alt="Profile Picture" style="height: 180px; width: 180px; border-radius: 50%; border: 5px solid white; box-shadow: 0 0 20px rgba(0,0,0,0.3); animation: float 3s ease-in-out infinite;">
+<img src="https://avatars.githubusercontent.com/u/allalellali?v=4" alt="Profile Picture" style="height: 180px; width: 180px; border-radius: 50%; border: 5px solid white; box-shadow: 0 0 20px rgba(0,0,0,0.3); animation: float 3s ease-in-out infinite;">
 
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -61,13 +61,13 @@
 <!-- Snake Animation -->
 <h2>🐍 Watch my contributions get eaten by a snake!</h2>
 
-![snake gif](https://github.com/[your-username]/[allalellali]/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/allalellali/allalellali/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Visitor Counter -->
 <h2>👀 Visitors</h2>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=[allalellali]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=allalellali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <!-- Quotes -->
