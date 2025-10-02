@@ -4,7 +4,7 @@
 <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 30px; background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); background-size: 400% 400%; animation: gradient 15s ease infinite;">
 
 <!-- Water Paper Texture Overlay -->
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"100\" viewBox=\"0 0 100 100\"><rect width=\"100\" height=\"100\" fill=\"white\" opacity=\"0.1\"/><path d=\"M0 50 Q 25 40, 50 50 T 100 50\" stroke=\"white\" stroke-width=\"2\" fill=\"none\" opacity=\"0.2\"/></svg>'); mix-blend-mode: overlay; pointer-events: none;"></div>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"100\" viewBox=\"0 0 100 100\"><rect width=\"100\" height=\"100\" fill=\"white\" opacity=\"0.1\"/><path d=\"M0 50 Q 25 40, 50 50 T 100 50\" stroke=\"white\" stroke-width=\"2\" fill=\"none\" opacity=\"0.2\"/></svg>'
 
 <!-- Profile Content -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Allal;+Welcome+to+my+Profile!;" />
