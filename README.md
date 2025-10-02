@@ -44,35 +44,16 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 180px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;">
-</p>
-
-<!-- Streak Stats -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[allalellali]&theme=radical" alt="GitHub Streak" style="height: 180px;">
-</p>
-
-<!-- Activity Graph -->
-<h2>📈 Activity Graph</h2>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Contact -->
 <h2>🤝 Connect with Me</h2>
 
 <p>
-  <a href="https://linkedin.com/in/[allalellali]">
+  <a href="https://linkedin.com/in/allalellali">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:[allalellali]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitter.com/[allalellali]">
+  <a href="https://twitter.com/allalellali">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
