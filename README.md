@@ -50,18 +50,13 @@
   <a href="https://linkedin.com/in/allalellali">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:[allalellali]">
+  <a href="mailto:allalellali">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://twitter.com/allalellali">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
-
-<!-- Snake Animation -->
-<h2>🐍 Watch my contributions get eaten by a snake!</h2>
-
-![snake gif](https://github.com/allalellali/allalellali/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Visitor Counter -->
 <h2>👀 Visitors</h2>
@@ -78,31 +73,6 @@
 </p>
 
 </div>
-
-<!-- CSS Animations -->
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes float {
-    0% { transform: translatey(0px); }
-    50% { transform: translatey(-10px); }
-    100% { transform: translatey(0px); }
-  }
-  
-  /* Water ripple effect on hover */
-  .water-effect:hover {
-    background: radial-gradient(circle, transparent 1%, rgba(255,255,255,0.1) 1%) center/15000%;
-  }
-  
-  .water-effect:active {
-    background-size: 100%;
-    transition: background 0s;
-  }
-</style>
 
 <!-- Footer -->
 <div align="center">
