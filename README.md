@@ -48,7 +48,7 @@
 
 <p>
   <a href="https://youtube.com/@PickleSniper">
-    <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=red">
   </a>
   <a href="mailto:allalellali">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
